@@ -1,0 +1,23 @@
+---
+layout: default
+title: Jessica Gronsbell | PhD Candidate in Biostatistics at Harvard University
+---
+<div class="blurb">
+	<h1> Jessica Gronsbell </h1>
+	<div class="span2">
+        <a href="../pics/me.jpg">
+            <img src="../pics/me.jpg" HEIGHT="300" WIDTH="300"
+                  title="JG" alt="JG"/></a>
+        </div>
+	
+	<p> I'm a fifth year PhD candidate in the <a href="https://www.hsph.harvard.edu/biostatistics/"> Department of 
+		Biostatistics </a> at Harvard University
+		where I am fortunate enough to work with <a href="https://www.hsph.harvard.edu/tianxi-cai/"> 
+		Dr. Tianxi Cai.</a> 
+		My thesis work focuses on 
+		the development of efficient machine learning methods for risk prediction in settings 
+		where outcome information, unlike features, is difficult to obtain.
+		</p>
+	
+	
+</div><!-- /.blurb -->
